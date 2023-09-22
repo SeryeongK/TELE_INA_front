@@ -37,7 +37,6 @@
 ### 4. 키워드를 검색
 - 검색 시 관련 영상과 플레이리스트 제공
 
-([맨 위로](https://github.com/insight-LINK/insightLINK/#readme-top))
 
 ## DB 설계
 <img width="848" alt="image" src="https://github.com/SeryeongK/TELE_INA_front/assets/67596636/079ecbd2-94bf-4ff9-9ab3-f3c96a6106c8">
@@ -46,5 +45,4 @@
 ## 서비스 구조도
 <img width="772" alt="image" src="https://github.com/SeryeongK/TELE_INA_front/assets/67596636/66840443-e6e7-41cf-9969-6e503c88b0b9">
 
-([맨 위로](https://github.com/insight-LINK/insightLINK/#readme-top))
 
